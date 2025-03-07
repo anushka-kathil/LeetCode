@@ -12,6 +12,9 @@ public:
     }
 
     for(int i=0;i<nums.size();i++ ){
+        
+
+        if (i > 0 && nums[i] == nums[i - 1] && m[i - 1] == true) continue;
         if(m[i]==false ){
             v.push_back(nums[i]);
             m[i]=true;
