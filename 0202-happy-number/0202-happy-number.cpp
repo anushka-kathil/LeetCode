@@ -19,13 +19,8 @@ public:
             m[n]++;
             int ans=digit(n);
             n=ans;
-            if(n==1){
-                c++;
-                break;
-            }
-            
         }
-        if(c!=0)
+        if(n==1)
         return true;
 
         return false;
