@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/anushka-kathil/LeetCode/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/anushka-kathil/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anushka-kathil/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anushka-kathil/LeetCode/tree/master/0242-valid-anagram) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Matrix
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushka-kathil/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/anushka-kathil/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0131-palindrome-partitioning](https://github.com/anushka-kathil/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/anushka-kathil/LeetCode/tree/master/0242-valid-anagram) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/anushka-kathil/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anushka-kathil/LeetCode/tree/master/0242-valid-anagram) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Heap (Priority Queue)
 |  |
