@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anushka-kathil/LeetCode/tree/master/0051-n-queens) |
+| [0135-candy](https://github.com/anushka-kathil/LeetCode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/anushka-kathil/LeetCode/tree/master/0217-contains-duplicate) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1646-kth-missing-positive-number](https://github.com/anushka-kathil/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/anushka-kathil/LeetCode/tree/master/0135-candy) |
 ## Sliding Window
 |  |
 | ------- |
