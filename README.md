@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anushka-kathil/LeetCode/tree/master/0051-n-queens) |
+| [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/anushka-kathil/LeetCode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/anushka-kathil/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/anushka-kathil/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anushka-kathil/LeetCode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0045-jump-game-ii) |
+| [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/anushka-kathil/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1236-n-th-tribonacci-number](https://github.com/anushka-kathil/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -146,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anushka-kathil/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
