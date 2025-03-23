@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka-kathil/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/anushka-kathil/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anushka-kathil/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/anushka-kathil/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anushka-kathil/LeetCode/tree/master/0037-sudoku-solver) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anushka-kathil/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/anushka-kathil/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/anushka-kathil/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
