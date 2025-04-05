@@ -183,16 +183,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/anushka-kathil/LeetCode/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anushka-kathil/LeetCode/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anushka-kathil/LeetCode/tree/master/0014-longest-common-prefix) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
