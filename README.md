@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2785-semi-ordered-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2785-semi-ordered-permutation) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anushka-kathil/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anushka-kathil/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anushka-kathil/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Matrix
 |  |
