@@ -6,14 +6,14 @@ public:
         bool flag=true;
         vector<int> ans;
         
-        for(int i=0;i<n-1;i++){
-            if(arr[i]>arr[i+1]){
-            flag=false;
-            break;
-            }
-        }
-        if(flag)
-        return ans;
+        // for(int i=0;i<n-1;i++){
+        //     if(arr[i]>arr[i+1]){
+        //     flag=false;
+        //     break;
+        //     }
+        // }
+        // if(flag)
+        // return ans;
 
         int maxi=INT_MIN;
         int index=0;
@@ -27,16 +27,8 @@ public:
                     index=i;
                 }
             }
-            // cout<<"maxi "<<maxi<<endl;
-            //  cout<<"index "<<index<<endl;
 
              while(index != ptr ){
-
-                // if(maxi == arr[ptr]){
-                //     ptr--;
-                //     continue;
-                // }
-
                 if(index!=0){
                     reverse(arr.begin(),arr.begin()+index+1);
                     ans.push_back(index+1);
@@ -44,7 +36,6 @@ public:
                    
 
                 }
-
                 else if(index == 0 ){
                     reverse(arr.begin(),arr.begin()+ptr+1);
                     ans.push_back(ptr+1);
@@ -52,11 +43,6 @@ public:
                     index = distance(arr.begin(), it);
                     
                 }
-
-                // if(maxi == arr[ptr]){
-                //     ptr--;
-                //     // continue;
-                // }
              }
                 ptr--;
             
