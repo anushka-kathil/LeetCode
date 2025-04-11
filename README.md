@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2785-semi-ordered-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2785-semi-ordered-permutation) |
+| [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anushka-kathil/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anushka-kathil/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Binary Search
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/anushka-kathil/LeetCode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
+| [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
