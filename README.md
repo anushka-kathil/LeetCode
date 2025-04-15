@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/anushka-kathil/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/anushka-kathil/LeetCode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/anushka-kathil/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anushka-kathil/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anushka-kathil/LeetCode/tree/master/0075-sort-colors) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anushka-kathil/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anushka-kathil/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anushka-kathil/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/anushka-kathil/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anushka-kathil/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anushka-kathil/LeetCode/tree/master/0263-ugly-number) |
