@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anushka-kathil/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anushka-kathil/LeetCode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/anushka-kathil/LeetCode/tree/master/0292-nim-game) |
 | [1236-n-th-tribonacci-number](https://github.com/anushka-kathil/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -247,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anushka-kathil/LeetCode/tree/master/0079-word-search) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anushka-kathil/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anushka-kathil/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
