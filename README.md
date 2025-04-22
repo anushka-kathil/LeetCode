@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0898-transpose-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0898-transpose-matrix) |
 | [1009-pancake-sorting](https://github.com/anushka-kathil/LeetCode/tree/master/1009-pancake-sorting) |
+| [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 | [1646-kth-missing-positive-number](https://github.com/anushka-kathil/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2048-build-array-from-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anushka-kathil/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/anushka-kathil/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Stack
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 | [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/anushka-kathil/LeetCode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 ## Trie
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -266,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/anushka-kathil/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
