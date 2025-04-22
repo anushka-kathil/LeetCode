@@ -23,7 +23,7 @@ public:
         Node* newNode = new Node(url);
         newNode->prev= current;
         current->next=newNode;
-        current=current->next;
+        current=newNode;
     }
 
 
