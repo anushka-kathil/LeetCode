@@ -12,25 +12,21 @@ struct Node{
 };
 
 
-
 class BrowserHistory {
     Node* current;
 public:
     BrowserHistory(string homepage) {
        current = new Node(homepage);
-        // current->next=nullptr;
     }
     
     void visit(string url) {
         Node* newNode = new Node(url);
-        // BrowserHistory* newNode = new BrowserHistory(url);
+        newNode->prev= current;
         current->next=newNode;
-        current->next->prev = current;
         current=current->next;
     }
 
 
-    
     string back(int steps) {
         while(steps--){
             if(current->prev != nullptr)
