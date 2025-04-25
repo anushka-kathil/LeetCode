@@ -25,7 +25,7 @@ class LRUCache {
         // temp->prev->next=tail;
         // temp->next=nullptr;
         // temp->prev=nullptr;
-
+  // temp could be in middle
     temp->prev->next = temp->next;
     temp->next->prev = temp->prev;
     temp->next = nullptr;
