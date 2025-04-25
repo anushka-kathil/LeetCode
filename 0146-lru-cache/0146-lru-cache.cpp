@@ -16,7 +16,7 @@ struct Node{
 // }
 
 class LRUCache {
-    map<int, Node*> mpp;
+    unordered_map<int, Node*> mpp;
     int cap;
     Node* head; 
     Node* tail; 
