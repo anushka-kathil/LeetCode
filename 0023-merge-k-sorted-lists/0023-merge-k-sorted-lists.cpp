@@ -12,8 +12,8 @@ class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         vector<int> v;
-        if(lists.empty())
-        return nullptr;
+        // if(lists.empty())
+        // return nullptr;
 
         for (int i = 0; i < lists.size(); i++) {
             ListNode* temp = lists[i];
