@@ -305,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/anushka-kathil/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/anushka-kathil/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/anushka-kathil/LeetCode/tree/master/0596-classes-more-than-5-students) |
+| [3782-find-valid-emails](https://github.com/anushka-kathil/LeetCode/tree/master/3782-find-valid-emails) |
 <!---LeetCode Topics End-->
