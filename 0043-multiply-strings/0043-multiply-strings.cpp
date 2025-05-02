@@ -5,10 +5,7 @@ public:
         int len1=num1.length();
         int len2=num2.length();
          if (num1 == "0" || num2 == "0") return "0";
-         if(num1=="1")
-         return num2;
-         if(num2 == "1")
-         return num1;
+         
 
 
         vector<int> v(len1+len2,0);
