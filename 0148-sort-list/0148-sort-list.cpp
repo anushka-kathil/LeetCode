@@ -24,20 +24,20 @@ public:
             temp=temp->next;
         }
         sort(v.begin(),v.end(),cmp);
-        ListNode* newHead = new ListNode(v[0]->val);
-        ListNode* temp1 = newHead;
-        for(int i=1;i<v.size();i++){
-            ListNode* newNode= new ListNode(v[i]->val);
-            temp1->next=newNode;
+        // ListNode* newHead = new ListNode(v[0]->val);
+        // ListNode* temp1 = newHead;
+        // for(int i=1;i<v.size();i++){
+        //     ListNode* newNode= new ListNode(v[i]->val);
+        //     temp1->next=newNode;
+        //     temp1=temp1->next;
+        // }
+
+     ListNode* newHead = v[0];
+     ListNode* temp1 = newHead;
+     for(int i=1;i<v.size();i++){
+            temp1->next=v[i];
             temp1=temp1->next;
         }
-
-    //  ListNode* newHead = v[0];
-    //  ListNode* temp1 = newHead;
-    //  for(int i=1;i<v.size();i++){
-    //         temp1->next=v[i];
-    //         temp1=temp1->next;
-    //     }
         temp1->next = nullptr;
 
 
