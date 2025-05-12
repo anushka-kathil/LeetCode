@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/anushka-kathil/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anushka-kathil/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/anushka-kathil/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/anushka-kathil/LeetCode/tree/master/0066-plus-one) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anushka-kathil/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anushka-kathil/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anushka-kathil/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anushka-kathil/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/anushka-kathil/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/anushka-kathil/LeetCode/tree/master/0202-happy-number) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anushka-kathil/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/anushka-kathil/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/anushka-kathil/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/anushka-kathil/LeetCode/tree/master/0242-valid-anagram) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anushka-kathil/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anushka-kathil/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/anushka-kathil/LeetCode/tree/master/0148-sort-list) |
