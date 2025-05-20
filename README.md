@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anushka-kathil/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/anushka-kathil/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/anushka-kathil/LeetCode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/anushka-kathil/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/anushka-kathil/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/anushka-kathil/LeetCode/tree/master/0202-happy-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/anushka-kathil/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anushka-kathil/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/anushka-kathil/LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/anushka-kathil/LeetCode/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/anushka-kathil/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/anushka-kathil/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/anushka-kathil/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/anushka-kathil/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anushka-kathil/LeetCode/tree/master/0148-sort-list) |
 | [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-kathil/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/anushka-kathil/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/anushka-kathil/LeetCode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0503-next-greater-element-ii) |
