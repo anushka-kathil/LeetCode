@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/anushka-kathil/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/anushka-kathil/LeetCode/tree/master/0292-nim-game) |
 | [1236-n-th-tribonacci-number](https://github.com/anushka-kathil/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anushka-kathil/LeetCode/tree/master/0148-sort-list) |
 | [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/anushka-kathil/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
