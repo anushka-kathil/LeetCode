@@ -24,7 +24,7 @@ public:
         return head;
 
         ListNode* temp = head;
-        while(temp->next!=nullptr){
+        while(temp->next){
             int add = gcd(temp->val, temp->next->val);
             ListNode* newNode = new ListNode(add);
             ListNode* temp1 = temp->next;
