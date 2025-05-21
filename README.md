@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1009-pancake-sorting](https://github.com/anushka-kathil/LeetCode/tree/master/1009-pancake-sorting) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anushka-kathil/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/anushka-kathil/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
