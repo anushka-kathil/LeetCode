@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/anushka-kathil/LeetCode/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/anushka-kathil/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-kathil/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-kathil/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
