@@ -1,23 +1,19 @@
 class Solution {
 public:
-    int sum(vector<vector<int>>& triangle, int n, int m, int i,int j,vector<vector<int>>& dp ){
-        if(i>=n ) return 0;
-        // if(j > i) return 0;
-        if(i == (n-1)) return triangle[i][j];
+    int dfs(int i, int j, vector<vector<int>>& triangle, vector<vector<int>>& dp) {
+        if(i == triangle.size() - 1) return triangle[i][j];
         if(dp[i][j] != -1) return dp[i][j];
-
-        int l = sum(triangle,n,m+1,i+1,j,dp);
-        int r = sum(triangle,n,m,i+1,j+1,dp);
-        // cout<<triangle[i][j] + min(l,r)<<" ";
-        return dp[i][j] = triangle[i][j] + min(l,r);
+        
+        int down = dfs(i + 1, j, triangle, dp);
+        int diagonal = dfs(i + 1, j + 1, triangle, dp);
+        
+        dp[i][j] = triangle[i][j] + min(down, diagonal);
+        return dp[i][j];
     }
+
     int minimumTotal(vector<vector<int>>& triangle) {
-        int n=triangle.size();
-        int m = triangle[0].size();
-        if(n == 1 && m==1){
-            return triangle[0][0];
-        }
-        vector<vector<int>> dp(n,vector<int>(n,-1));
-        return sum(triangle,n,m,0,0,dp);
+        int n = triangle.size();
+        vector<vector<int>> dp(n, vector<int>(n, -1));
+        return dfs(0, 0, triangle, dp);
     }
 };
