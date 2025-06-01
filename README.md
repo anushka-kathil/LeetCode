@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/anushka-kathil/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/anushka-kathil/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anushka-kathil/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/anushka-kathil/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anushka-kathil/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/anushka-kathil/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/anushka-kathil/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/anushka-kathil/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
