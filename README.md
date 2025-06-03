@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anushka-kathil/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/anushka-kathil/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Brainteaser
 |  |
@@ -458,10 +459,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anushka-kathil/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/anushka-kathil/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0801-is-graph-bipartite](https://github.com/anushka-kathil/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/anushka-kathil/LeetCode/tree/master/1036-rotting-oranges) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anushka-kathil/LeetCode/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/anushka-kathil/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/anushka-kathil/LeetCode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
