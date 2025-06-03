@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anushka-kathil/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/anushka-kathil/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/anushka-kathil/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anushka-kathil/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/anushka-kathil/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/anushka-kathil/LeetCode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/anushka-kathil/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/anushka-kathil/LeetCode/tree/master/1036-rotting-oranges) |
@@ -473,5 +475,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/anushka-kathil/LeetCode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/anushka-kathil/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anushka-kathil/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
