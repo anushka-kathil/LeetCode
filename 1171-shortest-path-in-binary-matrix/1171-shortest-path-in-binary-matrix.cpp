@@ -16,9 +16,8 @@ public:
         int dc[]={0,1,0,-1};
         int diagr[]={-1,1,1,-1};
         int diagc[]={1,1,-1,-1};
-        bool flag = false;
+       
         while(!q.empty()){
-            flag=false;
             int dis = q.front().first;
             int r1 = q.front().second.first;
             int c1 = q.front().second.second;
@@ -29,13 +28,11 @@ public:
                 if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && grid[nrow][ncol] == 0 && dis+1 < dist[nrow][ncol]){
                     if(nrow == end.first && ncol == end.second) return dis + 1;
                     dist[nrow][ncol] = dis+1;
-                    // flag=true;
                     q.push({dis+1,{nrow,ncol}});
                 }
                
             }
 
-            // if(flag == false){
                 for(int i=0;i<4;i++){
                     {
                     int nrow = r1 + dr[i];
@@ -47,7 +44,6 @@ public:
                         }
                     }
                  }
-            // }
         }
         return -1;
     }
