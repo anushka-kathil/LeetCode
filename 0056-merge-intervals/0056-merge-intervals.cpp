@@ -4,42 +4,44 @@ public:
     // static bool cmp(const vector<int>& a, const vector<int>& b) {
     // return a[0] < b[0];
     // }
-vector<vector<int>> merge(vector<vector<int>>& interval) {
- int n = interval.size();
- vector<vector<int>> ans;
-sort(interval.begin(),interval.end());
-if(n == 0) return {};
-vector<int> v;
-int last=interval[0][1];
-int small = interval[0][0];
-v.push_back(small);
-v.push_back(last);
-for(int i = 1; i<n;i++){
-if(last >= interval[i][0]) {
-v.clear();
-last = max(last,interval[i][1]);
-small = min(small,interval[i][0]);
-v.push_back(small);
-v.push_back(last);
-}
-else {ans.push_back(v);
-v.clear();
+    static bool cmp(vector<int> val1, vector<int> val2){
+        return val1[0] < val2[0];
+    }
+vector<vector<int>> merge(vector<vector<int>>& intervals) {
+   sort(intervals.begin(),intervals.end(), cmp);
+        //  cout<<intervals[2][0]<<" "<<intervals[2][1];
+        // 
+        vector<vector<int>> ans;
+        //  int cnt=0;
+         ans.push_back(intervals[0]);
+         int lastTime=intervals[0][1];
+         for(int i=1;i< intervals.size(); i++){
+            if (intervals[i][0] <= lastTime) {
+                vector<int> v = ans.back();
+                ans.pop_back();
+                
+                v[0]=min(intervals[i][0],v[0]);
+                v[1]=max(intervals[i][1],v[1]);
+                lastTime = v[1];
+                ans.push_back(v);
+                // cnt++; // Overlapping interval found
+            } else {
+                lastTime = intervals[i][1]; // Update the previous end time
+                ans.push_back(intervals[i]);
+            }
+            // if(intervals[i][0] >= lastTime){
+            //     cnt++;
+            //     lastTime=intervals[i][1];
+            // }
+         }
+        //   for(auto& i:ans){
+        //     for(auto j:i){
+        //         cout<<j<<" ";
+        //     }
+        //     cout<<endl;
+        //  }
 
-small = interval[i][0];
-last = interval[i][1];
-
-v.push_back(small);
-v.push_back(last);
-}
-}
-if(v.empty() == false) ans.push_back(v);
-if(ans.empty() == true) {
-    // v.push_back(small);
-    // v.push_back(last);
-    ans.push_back(v);
-}
-
-return ans;
+         return ans;
         
     }
 };
