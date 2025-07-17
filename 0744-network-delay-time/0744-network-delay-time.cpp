@@ -9,12 +9,12 @@ public:
         dist[k] = 0;
         cout<<dist[n];
 
-        // queue<pair<int,int>> q;
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> q;
+        queue<pair<int,int>> q;
+        // priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> q;
         q.push({0,k});
         while(!q.empty()){
-            int dis = q.top().first;
-            int node = q.top().second;
+            int dis = q.front().first;
+            int node = q.front().second;
             q.pop();
 
             for(auto it:adj[node]){
