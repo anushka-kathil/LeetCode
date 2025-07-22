@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anushka-kathil/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anushka-kathil/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/anushka-kathil/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/anushka-kathil/LeetCode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/anushka-kathil/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/anushka-kathil/LeetCode/tree/master/0202-happy-number) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/anushka-kathil/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anushka-kathil/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/anushka-kathil/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/anushka-kathil/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushka-kathil/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/anushka-kathil/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/anushka-kathil/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Counting
