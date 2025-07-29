@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/anushka-kathil/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/anushka-kathil/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/anushka-kathil/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anushka-kathil/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/anushka-kathil/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/anushka-kathil/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2365-percentage-of-letter-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/anushka-kathil/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Binary Search
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/anushka-kathil/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2427-first-letter-to-appear-twice](https://github.com/anushka-kathil/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Divide and Conquer
 |  |
