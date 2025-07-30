@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
 | [1297-maximum-number-of-balloons](https://github.com/anushka-kathil/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2365-percentage-of-letter-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
+| [2401-count-asterisks](https://github.com/anushka-kathil/LeetCode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/anushka-kathil/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
