@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/anushka-kathil/LeetCode/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/anushka-kathil/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/anushka-kathil/LeetCode/tree/master/1258-article-views-i) |
+| [1877-find-followers-count](https://github.com/anushka-kathil/LeetCode/tree/master/1877-find-followers-count) |
 | [3782-find-valid-emails](https://github.com/anushka-kathil/LeetCode/tree/master/3782-find-valid-emails) |
 ## Tree
 |  |
