@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anushka-kathil/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anushka-kathil/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/anushka-kathil/LeetCode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/anushka-kathil/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anushka-kathil/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/anushka-kathil/LeetCode/tree/master/0268-missing-number) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/anushka-kathil/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/anushka-kathil/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/anushka-kathil/LeetCode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/anushka-kathil/LeetCode/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/anushka-kathil/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/anushka-kathil/LeetCode/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/anushka-kathil/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/anushka-kathil/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anushka-kathil/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-kathil/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/anushka-kathil/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/anushka-kathil/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/anushka-kathil/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/anushka-kathil/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushka-kathil/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0402-remove-k-digits) |
