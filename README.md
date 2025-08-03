@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anushka-kathil/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anushka-kathil/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/anushka-kathil/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/anushka-kathil/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka-kathil/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -750,4 +751,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/anushka-kathil/LeetCode/tree/master/0223-rectangle-area) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/anushka-kathil/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
