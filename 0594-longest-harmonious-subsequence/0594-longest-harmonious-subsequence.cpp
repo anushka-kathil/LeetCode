@@ -7,14 +7,17 @@ public:
             m[nums[i]]++;
         }
         int maxi=0;
-        set<int> s(nums.begin(),nums.end());
-        for(auto it=s.begin(); it!=s.end(); it++){
-            int e = *it;
-            if(m[e-1] == 0 && m[e+1] == 0) continue;
-            if(m[e-1]>0 && maxi < (m[e]+m[e-1])) maxi = m[e]+m[e-1];
-            if(m[e+1]>0 && maxi < (m[e]+m[e+1])) maxi = m[e]+m[e+1];
+        // set<int> s(nums.begin(),nums.end());
+        // for(auto it=s.begin(); it!=s.end(); it++){
+        //     int e = *it;
+        //     if(m[e-1] == 0 && m[e+1] == 0) continue;
+        //     if(m[e-1]>0 && maxi < (m[e]+m[e-1])) maxi = m[e]+m[e-1];
+        //     if(m[e+1]>0 && maxi < (m[e]+m[e+1])) maxi = m[e]+m[e+1];
+        // }
+        for(auto& it:m){
+            if(m.count(it.first+1))
+            maxi = max(maxi, it.second + m[it.first+1]);
         }
-        return maxi;   
-    
+        return maxi;
     }
 };
