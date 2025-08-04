@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-kathil/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anushka-kathil/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/anushka-kathil/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2083-three-divisors](https://github.com/anushka-kathil/LeetCode/tree/master/2083-three-divisors) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/anushka-kathil/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/anushka-kathil/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/anushka-kathil/LeetCode/tree/master/2083-three-divisors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Queue
 |  |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/anushka-kathil/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/anushka-kathil/LeetCode/tree/master/1656-count-good-triplets) |
+| [2083-three-divisors](https://github.com/anushka-kathil/LeetCode/tree/master/2083-three-divisors) |
 ## Biconnected Component
 |  |
 | ------- |
