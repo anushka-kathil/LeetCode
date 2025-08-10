@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushka-kathil/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
+| [0900-reordered-power-of-2](https://github.com/anushka-kathil/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/anushka-kathil/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anushka-kathil/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/anushka-kathil/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0826-soup-servings](https://github.com/anushka-kathil/LeetCode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/anushka-kathil/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/anushka-kathil/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-kathil/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anushka-kathil/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0900-reordered-power-of-2](https://github.com/anushka-kathil/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1009-pancake-sorting](https://github.com/anushka-kathil/LeetCode/tree/master/1009-pancake-sorting) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/anushka-kathil/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/anushka-kathil/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1297-maximum-number-of-balloons](https://github.com/anushka-kathil/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2427-first-letter-to-appear-twice](https://github.com/anushka-kathil/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anushka-kathil/LeetCode/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/anushka-kathil/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/anushka-kathil/LeetCode/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/anushka-kathil/LeetCode/tree/master/2083-three-divisors) |
 ## Biconnected Component
