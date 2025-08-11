@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anushka-kathil/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka-kathil/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/anushka-kathil/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/anushka-kathil/LeetCode/tree/master/0506-relative-ranks) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anushka-kathil/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/anushka-kathil/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/anushka-kathil/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/anushka-kathil/LeetCode/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anushka-kathil/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/anushka-kathil/LeetCode/tree/master/0826-soup-servings) |
