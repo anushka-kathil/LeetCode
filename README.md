@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
 | [1297-maximum-number-of-balloons](https://github.com/anushka-kathil/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2401-count-asterisks](https://github.com/anushka-kathil/LeetCode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/anushka-kathil/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
