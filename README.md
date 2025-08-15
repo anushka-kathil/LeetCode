@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anushka-kathil/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/anushka-kathil/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/anushka-kathil/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anushka-kathil/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/anushka-kathil/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0826-soup-servings](https://github.com/anushka-kathil/LeetCode/tree/master/0826-soup-servings) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/anushka-kathil/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/anushka-kathil/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anushka-kathil/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anushka-kathil/LeetCode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anushka-kathil/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anushka-kathil/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/anushka-kathil/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/anushka-kathil/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/anushka-kathil/LeetCode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/anushka-kathil/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2529-range-product-queries-of-powers](https://github.com/anushka-kathil/LeetCode/tree/master/2529-range-product-queries-of-powers) |
