@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/anushka-kathil/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/anushka-kathil/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-kathil/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/anushka-kathil/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anushka-kathil/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/anushka-kathil/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/anushka-kathil/LeetCode/tree/master/2083-three-divisors) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1009-pancake-sorting](https://github.com/anushka-kathil/LeetCode/tree/master/1009-pancake-sorting) |
+| [1448-maximum-69-number](https://github.com/anushka-kathil/LeetCode/tree/master/1448-maximum-69-number) |
 | [2117-find-original-array-from-doubled-array](https://github.com/anushka-kathil/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/anushka-kathil/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3738-make-array-non-decreasing](https://github.com/anushka-kathil/LeetCode/tree/master/3738-make-array-non-decreasing) |
