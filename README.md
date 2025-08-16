@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anushka-kathil/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/anushka-kathil/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/anushka-kathil/LeetCode/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/anushka-kathil/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/anushka-kathil/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anushka-kathil/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/anushka-kathil/LeetCode/tree/master/0130-surrounded-regions) |
+| [0212-word-search-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0212-word-search-ii) |
 | [0542-01-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anushka-kathil/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/anushka-kathil/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/anushka-kathil/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/anushka-kathil/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/anushka-kathil/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/anushka-kathil/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anushka-kathil/LeetCode/tree/master/0344-reverse-string) |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anushka-kathil/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0212-word-search-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 ## Data Stream
 |  |
