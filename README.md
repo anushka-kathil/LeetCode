@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka-kathil/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/anushka-kathil/LeetCode/tree/master/0679-24-game) |
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anushka-kathil/LeetCode/tree/master/0733-flood-fill) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/anushka-kathil/LeetCode/tree/master/0679-24-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/anushka-kathil/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/anushka-kathil/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0679-24-game](https://github.com/anushka-kathil/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/anushka-kathil/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/anushka-kathil/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/anushka-kathil/LeetCode/tree/master/0900-reordered-power-of-2) |
