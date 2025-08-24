@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/anushka-kathil/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1236-n-th-tribonacci-number](https://github.com/anushka-kathil/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anushka-kathil/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anushka-kathil/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anushka-kathil/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0402-remove-k-digits) |
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
+| [1250-longest-common-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/anushka-kathil/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
