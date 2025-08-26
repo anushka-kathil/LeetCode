@@ -18,7 +18,7 @@ public:
         int m = word2.size();
         vector<vector<int>> dp(n+1, vector<int>(m+1,-1));
         int k = solve(word1,word2,n-1,m-1,dp);
-        cout<<k<<endl;
+        // cout<<k<<endl;
         return n-k+m-k;
         // return max(n,m) - k;     
     }
