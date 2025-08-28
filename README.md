@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anushka-kathil/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/anushka-kathil/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anushka-kathil/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/anushka-kathil/LeetCode/tree/master/0062-unique-paths) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anushka-kathil/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/anushka-kathil/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anushka-kathil/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/anushka-kathil/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/anushka-kathil/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/anushka-kathil/LeetCode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/anushka-kathil/LeetCode/tree/master/0224-basic-calculator) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anushka-kathil/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/anushka-kathil/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anushka-kathil/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anushka-kathil/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushka-kathil/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/anushka-kathil/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/anushka-kathil/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/anushka-kathil/LeetCode/tree/master/0179-largest-number) |
