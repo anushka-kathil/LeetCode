@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anushka-kathil/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/anushka-kathil/LeetCode/tree/master/0679-24-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushka-kathil/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anushka-kathil/LeetCode/tree/master/0733-flood-fill) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushka-kathil/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anushka-kathil/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/anushka-kathil/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/anushka-kathil/LeetCode/tree/master/0867-new-21-game) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anushka-kathil/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushka-kathil/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1009-pancake-sorting](https://github.com/anushka-kathil/LeetCode/tree/master/1009-pancake-sorting) |
 | [1448-maximum-69-number](https://github.com/anushka-kathil/LeetCode/tree/master/1448-maximum-69-number) |
