@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anushka-kathil/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/anushka-kathil/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/anushka-kathil/LeetCode/tree/master/3738-make-array-non-decreasing) |
+| [3748-sort-matrix-by-diagonals](https://github.com/anushka-kathil/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/anushka-kathil/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/anushka-kathil/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/anushka-kathil/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/anushka-kathil/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/anushka-kathil/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/anushka-kathil/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
