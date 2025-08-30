@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/anushka-kathil/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/anushka-kathil/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/anushka-kathil/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -961,4 +962,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/anushka-kathil/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
