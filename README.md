@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/anushka-kathil/LeetCode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1290-make-array-strictly-increasing](https://github.com/anushka-kathil/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/anushka-kathil/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anushka-kathil/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka-kathil/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/anushka-kathil/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/anushka-kathil/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1290-make-array-strictly-increasing](https://github.com/anushka-kathil/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anushka-kathil/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anushka-kathil/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anushka-kathil/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/anushka-kathil/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/anushka-kathil/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1290-make-array-strictly-increasing](https://github.com/anushka-kathil/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka-kathil/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/anushka-kathil/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/anushka-kathil/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/anushka-kathil/LeetCode/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1290-make-array-strictly-increasing](https://github.com/anushka-kathil/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [2117-find-original-array-from-doubled-array](https://github.com/anushka-kathil/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/anushka-kathil/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
