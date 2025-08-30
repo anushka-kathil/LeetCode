@@ -11,7 +11,6 @@ public:
                break;
             }
             else{
-                cout<<"AAYA"<<endl;
                 continue;
             }
 
