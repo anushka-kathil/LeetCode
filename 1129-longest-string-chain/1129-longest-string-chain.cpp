@@ -33,5 +33,7 @@ public:
             maxi = max(maxi, dp[i]);
         }
         return maxi;
+        // T.C = O(n^2)*O(max length)  + o (n log n) // 2 for loops * check function + sorting
+        // S.C = O(n) // dp vector
     }
 };
