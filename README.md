@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/anushka-kathil/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anushka-kathil/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2386-min-max-game](https://github.com/anushka-kathil/LeetCode/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anushka-kathil/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/anushka-kathil/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/anushka-kathil/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anushka-kathil/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anushka-kathil/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2386-min-max-game](https://github.com/anushka-kathil/LeetCode/tree/master/2386-min-max-game) |
 | [2551-apply-operations-to-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2785-semi-ordered-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
