@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/anushka-kathil/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/anushka-kathil/LeetCode/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/anushka-kathil/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/anushka-kathil/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1009-pancake-sorting](https://github.com/anushka-kathil/LeetCode/tree/master/1009-pancake-sorting) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/anushka-kathil/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/anushka-kathil/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/anushka-kathil/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [0909-stone-game](https://github.com/anushka-kathil/LeetCode/tree/master/0909-stone-game) |
 | [1236-n-th-tribonacci-number](https://github.com/anushka-kathil/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-kathil/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anushka-kathil/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/anushka-kathil/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/anushka-kathil/LeetCode/tree/master/0867-new-21-game) |
 | [0875-longest-mountain-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0909-stone-game](https://github.com/anushka-kathil/LeetCode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/anushka-kathil/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1121-partition-array-for-maximum-sum](https://github.com/anushka-kathil/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/anushka-kathil/LeetCode/tree/master/1129-longest-string-chain) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anushka-kathil/LeetCode/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/anushka-kathil/LeetCode/tree/master/0909-stone-game) |
 ## Doubly-Linked List
 |  |
 | ------- |
