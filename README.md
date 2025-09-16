@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/anushka-kathil/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/anushka-kathil/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anushka-kathil/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2386-min-max-game](https://github.com/anushka-kathil/LeetCode/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anushka-kathil/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/anushka-kathil/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/anushka-kathil/LeetCode/tree/master/2083-three-divisors) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anushka-kathil/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/anushka-kathil/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/anushka-kathil/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/anushka-kathil/LeetCode/tree/master/2083-three-divisors) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Queue
 |  |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/anushka-kathil/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 | [3738-make-array-non-decreasing](https://github.com/anushka-kathil/LeetCode/tree/master/3738-make-array-non-decreasing) |
