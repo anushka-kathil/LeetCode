@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/anushka-kathil/LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/anushka-kathil/LeetCode/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anushka-kathil/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/anushka-kathil/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anushka-kathil/LeetCode/tree/master/0217-contains-duplicate) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/anushka-kathil/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anushka-kathil/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anushka-kathil/LeetCode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anushka-kathil/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/anushka-kathil/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/anushka-kathil/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anushka-kathil/LeetCode/tree/master/0204-count-primes) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/anushka-kathil/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anushka-kathil/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/anushka-kathil/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/anushka-kathil/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0205-isomorphic-strings) |
