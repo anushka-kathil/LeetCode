@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka-kathil/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/anushka-kathil/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/anushka-kathil/LeetCode/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/anushka-kathil/LeetCode/tree/master/0695-max-area-of-island) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka-kathil/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/anushka-kathil/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushka-kathil/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0875-longest-mountain-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/anushka-kathil/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka-kathil/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/anushka-kathil/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/anushka-kathil/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anushka-kathil/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/anushka-kathil/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/anushka-kathil/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anushka-kathil/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/anushka-kathil/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushka-kathil/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1009-pancake-sorting](https://github.com/anushka-kathil/LeetCode/tree/master/1009-pancake-sorting) |
