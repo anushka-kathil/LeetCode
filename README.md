@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anushka-kathil/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/anushka-kathil/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/anushka-kathil/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/anushka-kathil/LeetCode/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0212-word-search-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/anushka-kathil/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anushka-kathil/LeetCode/tree/master/0695-max-area-of-island) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anushka-kathil/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/anushka-kathil/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/anushka-kathil/LeetCode/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/anushka-kathil/LeetCode/tree/master/0744-network-delay-time) |
@@ -981,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anushka-kathil/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/anushka-kathil/LeetCode/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anushka-kathil/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushka-kathil/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
