@@ -1,40 +1,29 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        // map<char, int> m={,-1};
-        int n= s.length();
-        if(s==" ")
-        return 1;
-        else if(n==1)
-        return 1;
-        int hash[255];
-        memset(hash, -1, sizeof(hash));
-        
-        int l=0,r=0,index=0;
-        int len=0,maxLen=0;
-         
-        while(r<n){
-            if(hash[s[index]] == -1){
-                len = r-l+1;
-                maxLen=max(maxLen , len);
-                hash[s[index]]=index;
-                r++;
+        int n = s.size();
+        // if(s==1 && s[0]>) 
+        unordered_map<char,int> m;
+        int len = 0, c=0;
+        for(int i=0; i<n; i++){
+            int j = i,space=0;
+            m.clear();
+            while(m[s[j]]==0 && j<n){
+                if(s[j] == ' ' && space==0){
+                    space++; 
+                    j++;
+                    continue;
+                }
+                else if(s[j] == ' ') { break;}
+                m[s[j]]++;
+                j++;
             }
-            else if(l <= hash[s[index]]){
-                l=hash[s[index]] + 1;
-                hash[s[index]]= index;
-                len = r-l+1;
-                maxLen=max(maxLen , len);
-                r++;
-            }
-            else{
-                hash[s[index]]= index;
-                len = r-l+1;
-                maxLen=max(maxLen , len);
-                r++;
-            }
-            index++;
+            // if(n!=1 && j==n){
+            // j--;}
+            len=max(len, j-i);
+            
+            // cout<<j<<" "<<i<<endl;
         }
-        return maxLen;
+        return len;  
     }
 };
