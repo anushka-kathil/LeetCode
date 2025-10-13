@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/anushka-kathil/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/anushka-kathil/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anushka-kathil/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka-kathil/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anushka-kathil/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anushka-kathil/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/anushka-kathil/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/anushka-kathil/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anushka-kathil/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/anushka-kathil/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anushka-kathil/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/anushka-kathil/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anushka-kathil/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/anushka-kathil/LeetCode/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/anushka-kathil/LeetCode/tree/master/1290-make-array-strictly-increasing) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/anushka-kathil/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2117-find-original-array-from-doubled-array](https://github.com/anushka-kathil/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anushka-kathil/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
