@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anushka-kathil/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anushka-kathil/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/anushka-kathil/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/anushka-kathil/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anushka-kathil/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anushka-kathil/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/anushka-kathil/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anushka-kathil/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/anushka-kathil/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -1151,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/anushka-kathil/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2730-maximum-or](https://github.com/anushka-kathil/LeetCode/tree/master/2730-maximum-or) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anushka-kathil/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/anushka-kathil/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anushka-kathil/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anushka-kathil/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
