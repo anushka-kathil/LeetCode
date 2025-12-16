@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/anushka-kathil/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/anushka-kathil/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/anushka-kathil/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0415-add-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0679-24-game](https://github.com/anushka-kathil/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/anushka-kathil/LeetCode/tree/master/0826-soup-servings) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/anushka-kathil/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/anushka-kathil/LeetCode/tree/master/1642-water-bottles) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anushka-kathil/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/anushka-kathil/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
