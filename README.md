@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/anushka-kathil/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0830-largest-triangle-area](https://github.com/anushka-kathil/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anushka-kathil/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/anushka-kathil/LeetCode/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0898-transpose-matrix) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/anushka-kathil/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anushka-kathil/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anushka-kathil/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/anushka-kathil/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1290-make-array-strictly-increasing](https://github.com/anushka-kathil/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka-kathil/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
