@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anushka-kathil/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/anushka-kathil/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/anushka-kathil/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anushka-kathil/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/anushka-kathil/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/anushka-kathil/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/anushka-kathil/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anushka-kathil/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/anushka-kathil/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/anushka-kathil/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/anushka-kathil/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
