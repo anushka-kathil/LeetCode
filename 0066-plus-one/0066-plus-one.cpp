@@ -1,38 +1,32 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-        int n=digits.size();
-        int c=0;
-        for(int i=0;i<n;i++){
-            if(digits[i]==9)
-            c++;
+        int n = digits.size();
+        vector<int> ans(n,0);
+        bool flag = false;
+        int sum = count(digits.begin(),digits.end(),9);
+        if(sum == n){
+            ans.insert(ans.begin(), 1);  
+            return ans;
         }
-
-        if(c==n)
-        {
-            digits.resize(n+1);
-          for(int i=0;i<n;i++){
-            digits[i]=0;
-          
-          }
-          digits[0]=1;
-          digits[n]=0;
-          return digits;
+        else if(digits[n-1] < 9){
+            ans = digits;
+            ans[n-1] = digits[n-1]+1;
+            return ans;
         }
-        
-      
-        for(int i=n-1;i>=0;i--){
-            digits[i]=digits[i]+1;
-            if(digits[i]%10!=0)
-            break;
-
-            else{
-            digits[i]=0;
-            // carry=1;    
-            continue;
+        else{
+            ans=digits;
+            for(int i=n-1; i>=0; i--){
+                if(ans[i] == 9){
+                    ans[i] = 0;
+                }
+                else{
+                ans[i]++;
+                 break;
+                }
             }
+
         }
-        return digits;
-        
+        return ans;   
     }
 };
