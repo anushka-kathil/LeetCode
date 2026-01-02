@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0679-24-game](https://github.com/anushka-kathil/LeetCode/tree/master/0679-24-game) |
+| [0728-self-dividing-numbers](https://github.com/anushka-kathil/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0826-soup-servings](https://github.com/anushka-kathil/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/anushka-kathil/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/anushka-kathil/LeetCode/tree/master/0867-new-21-game) |
