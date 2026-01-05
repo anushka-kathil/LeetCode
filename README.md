@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/anushka-kathil/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anushka-kathil/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/anushka-kathil/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/anushka-kathil/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/anushka-kathil/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anushka-kathil/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anushka-kathil/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/anushka-kathil/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1975-maximum-matrix-sum](https://github.com/anushka-kathil/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anushka-kathil/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anushka-kathil/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anushka-kathil/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/anushka-kathil/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/anushka-kathil/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/anushka-kathil/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/anushka-kathil/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
