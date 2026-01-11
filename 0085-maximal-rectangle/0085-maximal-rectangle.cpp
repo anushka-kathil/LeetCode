@@ -49,12 +49,12 @@ public:
 
             }
         }
-        cout<<"***";
+        // cout<<"***";
         int maxArea=0;
         for(int i=0;i<n;i++){
             maxArea=max(maxArea, lHist(pSum[i],m));
         }
-        cout<<"%%%";
+        // cout<<"%%%";
         return maxArea;
 
 
