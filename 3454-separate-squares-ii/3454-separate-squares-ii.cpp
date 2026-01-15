@@ -6,7 +6,7 @@ public:
     struct Event {
         long double y;
         int x1, x2;
-        int type; // +1 add, -1 remove
+        int type;
         bool operator<(Event const& other) const {
             return y < other.y;
         }
@@ -81,8 +81,6 @@ public:
         sort(events.begin(), events.end());
 
         SegTree st(xs);
-
-        // -------- pass 1: compute total union area --------
         long double total = 0.0L;
         long double prevY = events[0].y;
         int i = 0;
@@ -100,9 +98,6 @@ public:
         }
 
         long double half = total / 2.0L;
-
-        // -------- pass 2: locate the Y where area hits half --------
-        // reset segtree
         st.cnt.assign(4 * st.n, 0);
         st.len.assign(4 * st.n, 0);
 
@@ -130,7 +125,6 @@ public:
             prevY = currY;
         }
 
-        // fallback (should never happen)
         return (double)events.back().y;
     }
 };
