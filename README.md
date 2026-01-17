@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-semi-ordered-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anushka-kathil/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2951-find-the-peaks](https://github.com/anushka-kathil/LeetCode/tree/master/2951-find-the-peaks) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anushka-kathil/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anushka-kathil/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/anushka-kathil/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anushka-kathil/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anushka-kathil/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -1248,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/anushka-kathil/LeetCode/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/anushka-kathil/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anushka-kathil/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anushka-kathil/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anushka-kathil/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Interactive
