@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anushka-kathil/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/anushka-kathil/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2652-sum-multiples](https://github.com/anushka-kathil/LeetCode/tree/master/2652-sum-multiples) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anushka-kathil/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
