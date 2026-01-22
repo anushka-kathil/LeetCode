@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka-kathil/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anushka-kathil/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anushka-kathil/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1572-matrix-diagonal-sum](https://github.com/anushka-kathil/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anushka-kathil/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/anushka-kathil/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anushka-kathil/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anushka-kathil/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1572-matrix-diagonal-sum](https://github.com/anushka-kathil/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anushka-kathil/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/anushka-kathil/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1975-maximum-matrix-sum](https://github.com/anushka-kathil/LeetCode/tree/master/1975-maximum-matrix-sum) |
