@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anushka-kathil/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2951-find-the-peaks](https://github.com/anushka-kathil/LeetCode/tree/master/2951-find-the-peaks) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anushka-kathil/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anushka-kathil/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anushka-kathil/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anushka-kathil/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/anushka-kathil/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/anushka-kathil/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anushka-kathil/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/anushka-kathil/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anushka-kathil/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2887-sort-vowels-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anushka-kathil/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anushka-kathil/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0212-word-search-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -1250,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anushka-kathil/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anushka-kathil/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anushka-kathil/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/anushka-kathil/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Prefix Sum
 |  |
@@ -1341,5 +1346,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anushka-kathil/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/anushka-kathil/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
