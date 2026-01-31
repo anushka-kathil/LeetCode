@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anushka-kathil/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/anushka-kathil/LeetCode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/anushka-kathil/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/anushka-kathil/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anushka-kathil/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anushka-kathil/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka-kathil/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/anushka-kathil/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/anushka-kathil/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/anushka-kathil/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anushka-kathil/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anushka-kathil/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
