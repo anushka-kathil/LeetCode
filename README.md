@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anushka-kathil/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anushka-kathil/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anushka-kathil/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anushka-kathil/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/anushka-kathil/LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anushka-kathil/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/anushka-kathil/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anushka-kathil/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/anushka-kathil/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anushka-kathil/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anushka-kathil/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0415-add-strings) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/anushka-kathil/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/anushka-kathil/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/anushka-kathil/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/anushka-kathil/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anushka-kathil/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anushka-kathil/LeetCode/tree/master/0079-word-search) |
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anushka-kathil/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/anushka-kathil/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/anushka-kathil/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/anushka-kathil/LeetCode/tree/master/0191-number-of-1-bits) |
