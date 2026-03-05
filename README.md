@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anushka-kathil/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anushka-kathil/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anushka-kathil/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anushka-kathil/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/anushka-kathil/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
