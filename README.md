@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anushka-kathil/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anushka-kathil/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka-kathil/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/anushka-kathil/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/anushka-kathil/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anushka-kathil/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anushka-kathil/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anushka-kathil/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka-kathil/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anushka-kathil/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anushka-kathil/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/anushka-kathil/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anushka-kathil/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka-kathil/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anushka-kathil/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anushka-kathil/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/anushka-kathil/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/anushka-kathil/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka-kathil/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anushka-kathil/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anushka-kathil/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -869,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/anushka-kathil/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2730-maximum-or](https://github.com/anushka-kathil/LeetCode/tree/master/2730-maximum-or) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anushka-kathil/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka-kathil/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anushka-kathil/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3738-make-array-non-decreasing](https://github.com/anushka-kathil/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Sliding Window
