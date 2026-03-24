@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2730-maximum-or](https://github.com/anushka-kathil/LeetCode/tree/master/2730-maximum-or) |
 | [2785-semi-ordered-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2785-semi-ordered-permutation) |
+| [2906-construct-product-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anushka-kathil/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2951-find-the-peaks](https://github.com/anushka-kathil/LeetCode/tree/master/2951-find-the-peaks) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anushka-kathil/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/anushka-kathil/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anushka-kathil/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2906-construct-product-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anushka-kathil/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/anushka-kathil/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1374,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anushka-kathil/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2529-range-product-queries-of-powers](https://github.com/anushka-kathil/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2730-maximum-or](https://github.com/anushka-kathil/LeetCode/tree/master/2730-maximum-or) |
+| [2906-construct-product-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anushka-kathil/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anushka-kathil/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
