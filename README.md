@@ -733,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anushka-kathil/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/anushka-kathil/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/anushka-kathil/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anushka-kathil/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/anushka-kathil/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2730-maximum-or](https://github.com/anushka-kathil/LeetCode/tree/master/2730-maximum-or) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anushka-kathil/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka-kathil/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/anushka-kathil/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anushka-kathil/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3738-make-array-non-decreasing](https://github.com/anushka-kathil/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Sliding Window
@@ -1461,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/anushka-kathil/LeetCode/tree/master/0812-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/anushka-kathil/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
 |  |
 | ------- |
