@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/anushka-kathil/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2730-maximum-or](https://github.com/anushka-kathil/LeetCode/tree/master/2730-maximum-or) |
+| [2751-robot-collisions](https://github.com/anushka-kathil/LeetCode/tree/master/2751-robot-collisions) |
 | [2785-semi-ordered-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2906-construct-product-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anushka-kathil/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/anushka-kathil/LeetCode/tree/master/2386-min-max-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/anushka-kathil/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2751-robot-collisions](https://github.com/anushka-kathil/LeetCode/tree/master/2751-robot-collisions) |
 | [2785-semi-ordered-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [3336-water-bottles-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/anushka-kathil/LeetCode/tree/master/3379-transformed-array) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anushka-kathil/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/anushka-kathil/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anushka-kathil/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2751-robot-collisions](https://github.com/anushka-kathil/LeetCode/tree/master/2751-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anushka-kathil/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anushka-kathil/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1063,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anushka-kathil/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2751-robot-collisions](https://github.com/anushka-kathil/LeetCode/tree/master/2751-robot-collisions) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/anushka-kathil/LeetCode/tree/master/3447-clear-digits) |
 | [3738-make-array-non-decreasing](https://github.com/anushka-kathil/LeetCode/tree/master/3738-make-array-non-decreasing) |
