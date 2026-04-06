@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/anushka-kathil/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anushka-kathil/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/anushka-kathil/LeetCode/tree/master/0854-making-a-large-island) |
+| [0874-walking-robot-simulation](https://github.com/anushka-kathil/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/anushka-kathil/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/anushka-kathil/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anushka-kathil/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/anushka-kathil/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/anushka-kathil/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/anushka-kathil/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anushka-kathil/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/anushka-kathil/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/anushka-kathil/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/anushka-kathil/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/anushka-kathil/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anushka-kathil/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anushka-kathil/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
