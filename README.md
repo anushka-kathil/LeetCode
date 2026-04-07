@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anushka-kathil/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/anushka-kathil/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/anushka-kathil/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2069-walking-robot-simulation-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anushka-kathil/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/anushka-kathil/LeetCode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anushka-kathil/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 | [1622-fancy-sequence](https://github.com/anushka-kathil/LeetCode/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/anushka-kathil/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/anushka-kathil/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/anushka-kathil/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/anushka-kathil/LeetCode/tree/master/3678-design-task-manager) |
