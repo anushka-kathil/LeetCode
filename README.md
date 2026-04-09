@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anushka-kathil/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/anushka-kathil/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/anushka-kathil/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3721-longest-balanced-subarray-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3738-make-array-non-decreasing](https://github.com/anushka-kathil/LeetCode/tree/master/3738-make-array-non-decreasing) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/anushka-kathil/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/anushka-kathil/LeetCode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/anushka-kathil/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bit Manipulation
 |  |
