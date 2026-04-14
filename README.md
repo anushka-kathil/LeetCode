@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anushka-kathil/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/anushka-kathil/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anushka-kathil/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/anushka-kathil/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/anushka-kathil/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/anushka-kathil/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anushka-kathil/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anushka-kathil/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/anushka-kathil/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2463-minimum-total-distance-traveled](https://github.com/anushka-kathil/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/anushka-kathil/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anushka-kathil/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anushka-kathil/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/anushka-kathil/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anushka-kathil/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2463-minimum-total-distance-traveled](https://github.com/anushka-kathil/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/anushka-kathil/LeetCode/tree/master/2751-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anushka-kathil/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
