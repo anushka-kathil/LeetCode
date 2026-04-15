@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/anushka-kathil/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/anushka-kathil/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/anushka-kathil/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anushka-kathil/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/anushka-kathil/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2730-maximum-or](https://github.com/anushka-kathil/LeetCode/tree/master/2730-maximum-or) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/anushka-kathil/LeetCode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/anushka-kathil/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/anushka-kathil/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anushka-kathil/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/anushka-kathil/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2887-sort-vowels-in-a-string](https://github.com/anushka-kathil/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anushka-kathil/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
