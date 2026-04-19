@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/anushka-kathil/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anushka-kathil/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anushka-kathil/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/anushka-kathil/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anushka-kathil/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/anushka-kathil/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1917-maximum-average-pass-ratio](https://github.com/anushka-kathil/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1009-pancake-sorting](https://github.com/anushka-kathil/LeetCode/tree/master/1009-pancake-sorting) |
 | [1129-longest-string-chain](https://github.com/anushka-kathil/LeetCode/tree/master/1129-longest-string-chain) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/anushka-kathil/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-kathil/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anushka-kathil/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/anushka-kathil/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/anushka-kathil/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/anushka-kathil/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/anushka-kathil/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2047-find-a-peak-element-ii](https://github.com/anushka-kathil/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anushka-kathil/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka-kathil/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
