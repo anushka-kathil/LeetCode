@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anushka-kathil/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anushka-kathil/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka-kathil/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/anushka-kathil/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/anushka-kathil/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-design-browser-history](https://github.com/anushka-kathil/LeetCode/tree/master/1582-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anushka-kathil/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anushka-kathil/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka-kathil/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/anushka-kathil/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/anushka-kathil/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anushka-kathil/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/anushka-kathil/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka-kathil/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anushka-kathil/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/anushka-kathil/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -1375,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anushka-kathil/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anushka-kathil/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anushka-kathil/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/anushka-kathil/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anushka-kathil/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/anushka-kathil/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anushka-kathil/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1562,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/anushka-kathil/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka-kathil/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anushka-kathil/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anushka-kathil/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
