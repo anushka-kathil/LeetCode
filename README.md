@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/anushka-kathil/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anushka-kathil/LeetCode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/anushka-kathil/LeetCode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/anushka-kathil/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/anushka-kathil/LeetCode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anushka-kathil/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/anushka-kathil/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -1541,6 +1542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/anushka-kathil/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/anushka-kathil/LeetCode/tree/master/0812-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anushka-kathil/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
