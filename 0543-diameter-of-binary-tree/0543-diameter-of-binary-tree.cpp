@@ -11,16 +11,20 @@
  */
 class Solution {
 public:
-    int findMax(TreeNode* root, int& maxi){
-        if(root == nullptr) return 0;
-        int lh = findMax(root->left,maxi);
-        int rh = findMax(root->right,maxi);
-        maxi = max(maxi,lh+rh);
+
+    int diameterOfBinaryTree(TreeNode* root) {
+       int maxi=0;
+       find(root,maxi);
+       return maxi;
+    }
+private:
+    int find(TreeNode* root, int& maxi){
+        if(root==NULL) return 0;
+        int lh = find(root->left,maxi);
+        int rh = find(root->right,maxi);
+        maxi=max(maxi, lh+rh);
+        // cout<<maxi<<" ";
         return 1+max(lh,rh);
     }
-    int diameterOfBinaryTree(TreeNode* root) {
-        int maxi=0; // maxi = diameter
-        findMax(root,maxi);
-        return maxi;
-    }
+   
 };
