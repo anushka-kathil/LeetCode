@@ -11,14 +11,36 @@
  */
 class Solution {
 public:
-    bool isSymmetricCheck(TreeNode* l, TreeNode* r){
-          if(l == NULL || r == NULL) return l == r;
-          if(l->val != r->val) return false;
-         return isSymmetricCheck(l->left,r->right) && isSymmetricCheck(l->right,r->left);
+    bool isSymmetric(TreeNode* root) {
+        vector<int> vL,vR;
+        if(root!=NULL){
+            vL.push_back(root->val);
+            vR.push_back(root->val);
+        }
+        pL(root->left, vL);
+        pR(root->right, vR);
+        // cout<<vL.size()<<" "<<vR.size()<<endl;
+        // for(int i=0; i<vL.size(); i++) cout<<vL[i]<<" ";
+        // cout<<endl;
+        //  for(int i=0; i<vR.size(); i++) cout<<vR[i]<<" ";
+        return vL==vR;
+        
+    }
+    vector<int> pL(TreeNode* root,vector<int>& vL){
+        if(root==NULL) {vL.push_back(-1); return vL;}
+        
+        vL.push_back(root->val);
+        pL(root->left,vL);
+        pL(root->right,vL);
+        return vL;
     }
 
-    bool isSymmetric(TreeNode* root) {
-         if(!root) return true;
-         return isSymmetricCheck(root->left,root->right);
+    vector<int> pR(TreeNode* root,vector<int>& vR){
+        if(root==NULL){ vR.push_back(-1); return vR;}
+        vR.push_back(root->val);
+        pR(root->right,vR);
+        pR(root->left,vR);
+        
+        return vR;
     }
 };
