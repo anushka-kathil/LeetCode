@@ -10,8 +10,8 @@
 class Solution {
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        map<TreeNode*,bool> visited;
-        map<TreeNode*,TreeNode*> m;
+       unordered_map<TreeNode*,bool> visited;
+        unordered_map<TreeNode*,TreeNode*> m;
         m[root]=NULL;
         queue<TreeNode*> q;
         q.push(root);
