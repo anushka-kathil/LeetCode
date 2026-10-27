@@ -1,41 +1,23 @@
 class Solution {
 public:
-
-   int money(vector<int>& v){
-    int prev2 = 0;
-    int prev = v[0];
-    for(int i = 1;i< v.size(); i++){
-        int take = v[i];
-        if(i>1) take+=prev2;
-
-        int not_take = 0 + prev;
-        int curr = max(take,not_take);
-        prev2 = prev;
-        prev= curr;
+    int f(vector<int>& nums, int n, vector<int>& dp){
+        if(n==0) return nums[n];
+        if(n<0) return 0;
+        if(dp[n]!=-1) return dp[n];
+        int pick = nums[n]+f(nums,n-2,dp);
+        int notPick = 0+f(nums,n-1,dp);
+        return dp[n]=max(pick,notPick);
     }
-    return prev;
-   }
-
-
-    int rob(vector<int>& nums) {
-        int n= nums.size();
-        // if(n==0 || n==2) return 0;
+    int rob(vector<int>& nums) {  
+        int n=nums.size();
         if(n==1) return nums[0];
-        // if(n<=3){
-        //  sort(nums.begin(),nums.end(),greater<int>());
-        //  return nums[0];
-        // }
-        // first and last can't come together
-        vector<int> temp1(n-1);
-        vector<int> temp2(n-1);
-        for(int i=1; i<n; i++){
-            temp1.push_back(nums[i]);
+        vector<int> t1,t2;
+        // vector<int> dp(n,-1);
+        for(int i=0; i<n; i++){
+            if(i!=0) t1.push_back(nums[i]);
+            if(i!=n-1) t2.push_back(nums[i]);
         }
-        for(int i=0; i<n-1; i++){
-            temp2.push_back(nums[i]);
-        }
-        cout<<money(temp1)<<" "<<money(temp2)<<endl;
-        return max(money(temp1),money(temp2));
-        
+        vector<int> dp1(n-1, -1), dp2(n-1, -1);
+        return max(f(t1, n-2, dp1), f(t2, n-2, dp2));        
     }
 };
